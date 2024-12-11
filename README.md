@@ -1,0 +1,1 @@
+# compound-invest-analysis
